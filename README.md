@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @wizzpradeep
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-wizzpradeep/wizzpradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @wizzpradeep
+- 👀 I’m interested in web development, backend development with Python, and creating responsive and dynamic user interfaces.
+- 🌱 I’m currently learning advanced Django features, socket programming, and cybersecurity concepts.
+- 💞️ I’m looking to collaborate on Django projects, open-source contributions, and any interesting Python development opportunities.
+- 📫 How to reach me: [Your email or LinkedIn profile]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve been coding since class 8, and I love combining my passion for tech with creative hobbies like dancing and singing!

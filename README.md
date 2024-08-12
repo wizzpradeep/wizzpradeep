@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kunwar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="'right" alt="'coding" width="400px" height="400px src='https://i.gifer.com/Ry6p.gif'>
+<img align="'right" alt="'coding" width="400px"  src='https://i.gifer.com/Ry6p.gif' />
 
 <p align=" left"> <a href="https://twitter.com/wizpradeep" target="blank"><img
         src="https://img.shields.io/twitter/follow/wizpradeep?logo=twitter&style=for-the-badge" alt="wizpradeep" /></a>

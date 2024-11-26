@@ -20,7 +20,7 @@
 - 📫 How to reach me **wizzpradeep@gmail.com, https://www.linkedin.com/in/pradeep-kunwar-78390930a/**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1Bl3o-yTHr_j_xv7N-uXUoihOPq_C8RZv/view?usp=sharing](https://drive.google.com/file/d/1Bl3o-yTHr_j_xv7N-uXUoihOPq_C8RZv/view?usp=sharing)
+[https://drive.google.com/file/d/191voPQw-xUGHS10A1kdlrl9zZNwt_hx0/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

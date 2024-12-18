@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradip</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<img align="center" src="https://github.com/wizzpradeep/wizzpradeep/blob/main/pradeep-banner.png" />
 
 - 🔭 I’m currently working on [Python Django](https://github.com/wizzpradeep?tab=repositories)
 

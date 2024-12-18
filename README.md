@@ -30,9 +30,9 @@
     <a href="https://linkedin.com/in/pradeep-kunwar-78390930a" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="pradeep-kunwar-78390930a" height="30" width="40" /></a>
-    <a href="https://instagram.com/wizzpradeep" target="blank"><img align="center"
+    <a href="https://instagram.com/pradeepxvi" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="wizzpradeep" height="30" width="40" /></a>
+            alt="pradeepxvi" height="30" width="40" /></a>
     <a href="https://discord.gg/wizzee__" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="wizzee__" height="30" width="40" /></a>
